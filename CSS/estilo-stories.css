@@ -1,0 +1,182 @@
+*{
+    margin: 0px;
+    padding: 1px;
+}
+
+body{
+
+  font-family: sans-serif;
+
+  font-size: 15px;
+
+  background: linear-gradient(rgb(232, 232, 232),
+
+  rgb(166, 165, 165));
+
+}
+
+h3{
+
+display: none;
+
+}
+
+nav{
+
+align-items: center;
+
+margin: 1px;
+
+width: 100%;
+
+}
+
+nav ul li{
+
+  display: inline-block;
+
+  padding: 8px;
+
+  color: white;
+
+  background: black;
+
+}
+
+nav ul{
+
+  list-style: none;
+
+  background: black;
+
+}
+
+nav ul li:hover{
+
+  font-family: Arial, Helvetica, sans-serif;
+
+  display: inline-block;
+
+  padding: 4px;
+
+  background: white;
+
+  color: black;
+
+}
+
+section{
+
+  background: none;
+
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+margin: auto;
+
+width: auto;
+
+align-items: center;
+
+color: white;
+
+font-size: 25px;
+
+padding: 15px;
+
+}
+
+h2{
+
+  font-size: 25px;
+
+  color: black;
+
+  font-family:Arial, Helvetica, sans-serif;
+
+}
+
+h1{
+
+  font-size: 25px;
+
+  color:brown;
+
+  font-family: sans-serif;
+
+}
+
+h2:hover{
+
+  padding: 2px;
+
+  color: red;
+
+}
+
+section{
+
+  width: 100%;
+
+  margin: auto;
+
+  text-align: center;
+
+}
+
+section ul{
+
+  width: 100%;
+
+  list-style: none;
+
+}
+
+section ul li{
+
+  text-align: center;
+
+  font-family: sans-serif;
+
+  color: aqua;
+
+  background-color: white;
+
+  display: inline-block;
+
+  padding: 1.8%;
+
+
+
+}
+
+section ul li{
+
+  background: none;
+
+  border-radius: 5px;
+
+  -moz-border-radius: 35px;
+
+  -webkit-border-radius: 35px;
+
+}
+
+table tr td a img:hover{
+
+  max-width: 100%;
+
+  background-color: transparent;
+
+}
+
+section ul li a img:hover{
+
+  background-color: rgb(5, 5, 5);
+
+  border-radius: 5px;
+
+  -moz-border-radius: 35px;
+
+  -webkit-border-radius: 35px;
+
+}
